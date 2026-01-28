@@ -3,7 +3,6 @@ title: Principal content
 layout: main-content
 nav_order: 2
 description: "Just the Docs hosted on GitHub Pages."
-permalink: /brief.html
 ---
 
 # Applied Intelligence Lab  
