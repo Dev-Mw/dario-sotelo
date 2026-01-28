@@ -1,3 +1,11 @@
+---
+title: Brief
+layout: brief
+nav_order: 1
+description: "Just the Docs hosted on GitHub Pages."
+permalink: /
+---
+
 # Applied Intelligence Lab  
 ### Data Science · Machine Learning · Physics · Quantum Computing
 
